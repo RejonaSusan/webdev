@@ -1,0 +1,28 @@
+.container{
+    text-align: center;
+    width: 70%;
+    margin: auto;
+    display: block;
+
+}
+
+.player{
+    text-align: center;
+    display: inline-block;
+}
+
+img{
+    width: 80%;
+}
+
+h1{
+    font-family: 'Lobster', cursive;
+    text-shadow: 5px 0 black;
+    font-size: 8rem;
+    color: #C678FA;
+}
+
+
+body{
+    background-color: #FFC8BD;
+}
