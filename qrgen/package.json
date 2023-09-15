@@ -1,0 +1,18 @@
+{ 
+  "type" : "module",
+  "dependencies": {
+    "inquirer": "^9.2.11",
+    "qr-image": "^3.2.0",
+    "qrcode": "^1.5.3"
+  },
+  "name": "qrcodegen",
+  "version": "1.0.0",
+  "description": "making a qr code generator",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rejona",
+  "license": "ISC"
+}
