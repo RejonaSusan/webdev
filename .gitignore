@@ -1,5 +1,7 @@
 activity_generator/node_modules/
 
 taco_recipe/node_modules/
+taco_recipe/.dockerignore
+taco_recipe/Dockerfile
 
 blog_post/node_modules/
